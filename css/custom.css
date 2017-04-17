@@ -1,0 +1,135 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+.body-content{
+	    background-color: #EBEEF5;
+}
+.header{
+	background-color: #3F5B9A;
+}
+.container{
+	width: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo{ 
+	width: 58%;
+	float: left;overflow: hidden;
+
+}
+.logo img{
+	margin: 20px 0 0 0;
+	width: 200px;
+}
+.signin-form{
+	width: 42%;
+	float: left;
+	overflow: hidden;
+}
+.signin-form table label{
+	color: white;
+	font-size: 13px;
+	margin-left: 11px;
+}
+.signin-form table tbody tr td 
+input {
+	margin-left: 10px;
+}
+.login-box{
+	border-color: #1d2a5b;
+	margin: 0;
+	width: 150px;
+	padding: 3px;
+	border: 1px solid #bdc7d8;
+}
+.Login-button {
+    background-color: #4267b2;
+    border: 1px solid #2c5115;
+}
+.Login-button{
+	color: white;
+}
+.forgotten a {
+	font-size: 13px;
+	text-decoration: none;
+    color: #8FABC6;
+    margin-left: 10px;
+}
+.body-content-left {
+    width: 55%;
+    float: left;
+    padding: 20px 0 0 0;
+    font-size: 20px;
+}
+.signup-form {
+    width: 45%;
+    float: left;
+}
+.h-one{
+	font-size: 35px;
+}
+.h-three{
+	font-size: 18px;
+}
+.small-field {
+    padding: 8px 10px;
+    border: 1px solid #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    font-size: 18px;
+    width: 169px;
+}
+.big-field {
+    width: 365px;
+    border: 1px solid #bdc7d8;
+    border-radius: 5px;
+    margin: 8px 0 0 0;
+    padding: 8px 10px;
+    font-size: 18px;
+}
+.birthday-content h4{
+	margin-bottom: 7px;
+}
+
+.birthday-content select {
+    margin: 1px -7px 0 1px;
+    font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid #bdc7d8;
+}
+
+.birthday-content a {
+    color: #003eb5;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 11px;
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+.para p a {
+    text-decoration: none;
+    color: #365899;
+}
+.page p a {
+    color: 091558;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.submit-button {
+    font-size: 19px;
+    padding: 7px 20px;
+    background-color: #6EAC5A;
+    color: white;
+    margin: 15px 0px;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border: 1px solid #2c5115;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    display: inline-block;
+}
